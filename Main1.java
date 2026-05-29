@@ -7,11 +7,11 @@ class Demo1 implements Sample1
 {
 public void disp()
 {
-System.out.println("Hello");
+System.out.println("Hello java");
 }
 public void test()
 {
-System.out.println("Hiii");
+System.out.println("Hello spring");
 }
 }
 class Main1
